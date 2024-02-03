@@ -1,0 +1,13 @@
+Lab2/wordpress/
+Lab2/node_modules/
+Lab2/package-lock.json
+Lab2/package.json
+Lab2/wordpress_archive.tar
+Lab4/node_modules
+Lab4/package.json
+Lab4/package-lock.json
+Lab4/db-attack
+Lab6/.idea/
+.idea/
+*.in
+*.out

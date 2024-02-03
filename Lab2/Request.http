@@ -1,0 +1,9 @@
+###
+
+GET http://wordpressuser123:password123@172.26.160.1/wp-json
+
+###
+
+GET http://wordpressuser123:password124@172.26.160.1/wp-json
+
+###
